@@ -1,0 +1,5 @@
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Rad to Deg\bin\Debug\Rad to Deg.exe.config
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Rad to Deg\bin\Debug\Rad to Deg.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Rad to Deg\bin\Debug\Rad to Deg.pdb
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Rad to Deg\obj\Debug\Rad to Deg.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Rad to Deg\obj\Debug\Rad to Deg.pdb

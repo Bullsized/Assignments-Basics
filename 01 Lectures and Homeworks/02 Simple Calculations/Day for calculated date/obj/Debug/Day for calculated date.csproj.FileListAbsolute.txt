@@ -1,0 +1,6 @@
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Day for calculated date\bin\Debug\Day for calculated date.exe.config
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Day for calculated date\bin\Debug\Day for calculated date.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Day for calculated date\bin\Debug\Day for calculated date.pdb
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Day for calculated date\obj\Debug\Day for calculated date.csprojResolveAssemblyReference.cache
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Day for calculated date\obj\Debug\Day for calculated date.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Day for calculated date\obj\Debug\Day for calculated date.pdb

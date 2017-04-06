@@ -1,0 +1,5 @@
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\From Inch to Cm\bin\Debug\From Inch to Cm.exe.config
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\From Inch to Cm\bin\Debug\From Inch to Cm.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\From Inch to Cm\bin\Debug\From Inch to Cm.pdb
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\From Inch to Cm\obj\Debug\From Inch to Cm.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\From Inch to Cm\obj\Debug\From Inch to Cm.pdb

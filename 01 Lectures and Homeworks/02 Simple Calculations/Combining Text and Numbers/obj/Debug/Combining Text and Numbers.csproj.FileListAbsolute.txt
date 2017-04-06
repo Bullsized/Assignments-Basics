@@ -1,0 +1,5 @@
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Combining Text and Numbers\bin\Debug\Combining Text and Numbers.exe.config
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Combining Text and Numbers\bin\Debug\Combining Text and Numbers.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Combining Text and Numbers\bin\Debug\Combining Text and Numbers.pdb
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Combining Text and Numbers\obj\Debug\Combining Text and Numbers.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Combining Text and Numbers\obj\Debug\Combining Text and Numbers.pdb

@@ -1,0 +1,5 @@
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Hello NAME\bin\Debug\Hello NAME.exe.config
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Hello NAME\bin\Debug\Hello NAME.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Hello NAME\bin\Debug\Hello NAME.pdb
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Hello NAME\obj\Debug\Hello NAME.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Hello NAME\obj\Debug\Hello NAME.pdb
