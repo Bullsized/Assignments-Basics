@@ -1,0 +1,9 @@
+D:\Docz\Programming\SoftUni\2017-01-21\Zadacha 07 GUI 02\Zadacha 07 GUI 02\bin\Debug\Zadacha 07 GUI 02.exe.config
+D:\Docz\Programming\SoftUni\2017-01-21\Zadacha 07 GUI 02\Zadacha 07 GUI 02\bin\Debug\Zadacha 07 GUI 02.exe
+D:\Docz\Programming\SoftUni\2017-01-21\Zadacha 07 GUI 02\Zadacha 07 GUI 02\bin\Debug\Zadacha 07 GUI 02.pdb
+D:\Docz\Programming\SoftUni\2017-01-21\Zadacha 07 GUI 02\Zadacha 07 GUI 02\obj\Debug\Zadacha 07 GUI 02.csprojResolveAssemblyReference.cache
+D:\Docz\Programming\SoftUni\2017-01-21\Zadacha 07 GUI 02\Zadacha 07 GUI 02\obj\Debug\Zadacha_07_GUI_02.Form1.resources
+D:\Docz\Programming\SoftUni\2017-01-21\Zadacha 07 GUI 02\Zadacha 07 GUI 02\obj\Debug\Zadacha_07_GUI_02.Properties.Resources.resources
+D:\Docz\Programming\SoftUni\2017-01-21\Zadacha 07 GUI 02\Zadacha 07 GUI 02\obj\Debug\Zadacha 07 GUI 02.csproj.GenerateResource.Cache
+D:\Docz\Programming\SoftUni\2017-01-21\Zadacha 07 GUI 02\Zadacha 07 GUI 02\obj\Debug\Zadacha 07 GUI 02.exe
+D:\Docz\Programming\SoftUni\2017-01-21\Zadacha 07 GUI 02\Zadacha 07 GUI 02\obj\Debug\Zadacha 07 GUI 02.pdb

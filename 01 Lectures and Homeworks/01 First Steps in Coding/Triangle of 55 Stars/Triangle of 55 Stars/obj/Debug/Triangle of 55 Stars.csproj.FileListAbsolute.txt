@@ -1,0 +1,5 @@
+D:\Docz\Programming\SoftUni\2017-01-21\Triangle of 55 Stars\Triangle of 55 Stars\bin\Debug\Triangle of 55 Stars.exe.config
+D:\Docz\Programming\SoftUni\2017-01-21\Triangle of 55 Stars\Triangle of 55 Stars\bin\Debug\Triangle of 55 Stars.exe
+D:\Docz\Programming\SoftUni\2017-01-21\Triangle of 55 Stars\Triangle of 55 Stars\bin\Debug\Triangle of 55 Stars.pdb
+D:\Docz\Programming\SoftUni\2017-01-21\Triangle of 55 Stars\Triangle of 55 Stars\obj\Debug\Triangle of 55 Stars.exe
+D:\Docz\Programming\SoftUni\2017-01-21\Triangle of 55 Stars\Triangle of 55 Stars\obj\Debug\Triangle of 55 Stars.pdb
