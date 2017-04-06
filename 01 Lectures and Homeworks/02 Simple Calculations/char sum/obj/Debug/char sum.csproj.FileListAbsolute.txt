@@ -1,0 +1,5 @@
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\char sum\bin\Debug\char sum.exe.config
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\char sum\bin\Debug\char sum.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\char sum\bin\Debug\char sum.pdb
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\char sum\obj\Debug\char sum.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\char sum\obj\Debug\char sum.pdb

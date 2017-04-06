@@ -1,0 +1,6 @@
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Circle\bin\Debug\Circle.exe.config
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Circle\bin\Debug\Circle.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Circle\bin\Debug\Circle.pdb
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Circle\obj\Debug\Circle.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Circle\obj\Debug\Circle.pdb
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache

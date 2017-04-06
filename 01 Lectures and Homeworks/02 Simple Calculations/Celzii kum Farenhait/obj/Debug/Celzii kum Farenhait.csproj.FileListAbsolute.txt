@@ -1,0 +1,5 @@
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Celzii kum Farenhait\bin\Debug\Celzii kum Farenhait.exe.config
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Celzii kum Farenhait\bin\Debug\Celzii kum Farenhait.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Celzii kum Farenhait\bin\Debug\Celzii kum Farenhait.pdb
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Celzii kum Farenhait\obj\Debug\Celzii kum Farenhait.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\Celzii kum Farenhait\obj\Debug\Celzii kum Farenhait.pdb

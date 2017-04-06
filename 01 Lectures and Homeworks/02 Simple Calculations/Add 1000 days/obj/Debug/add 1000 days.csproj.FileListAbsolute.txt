@@ -1,0 +1,6 @@
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\add 1000 days\bin\Debug\add 1000 days.exe.config
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\add 1000 days\bin\Debug\add 1000 days.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\add 1000 days\bin\Debug\add 1000 days.pdb
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\add 1000 days\obj\Debug\add 1000 days.csprojResolveAssemblyReference.cache
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\add 1000 days\obj\Debug\add 1000 days.exe
+D:\Docz\Programming\SoftUni\2017-01-28\Blank Practice\add 1000 days\obj\Debug\add 1000 days.pdb
