@@ -1,0 +1,6 @@
+D:\Docz\Programming\SoftUni\2017-01-21\Hello CSharp\Hello CSharp\bin\Debug\Hello CSharp.exe.config
+D:\Docz\Programming\SoftUni\2017-01-21\Hello CSharp\Hello CSharp\bin\Debug\Hello CSharp.exe
+D:\Docz\Programming\SoftUni\2017-01-21\Hello CSharp\Hello CSharp\bin\Debug\Hello CSharp.pdb
+D:\Docz\Programming\SoftUni\2017-01-21\Hello CSharp\Hello CSharp\obj\Debug\Hello CSharp.csprojResolveAssemblyReference.cache
+D:\Docz\Programming\SoftUni\2017-01-21\Hello CSharp\Hello CSharp\obj\Debug\Hello CSharp.exe
+D:\Docz\Programming\SoftUni\2017-01-21\Hello CSharp\Hello CSharp\obj\Debug\Hello CSharp.pdb

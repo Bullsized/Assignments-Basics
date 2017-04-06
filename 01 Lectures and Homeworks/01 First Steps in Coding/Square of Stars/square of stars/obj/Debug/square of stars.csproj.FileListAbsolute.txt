@@ -1,0 +1,6 @@
+D:\Docz\Programming\SoftUni\2017-01-21\square of stars\square of stars\bin\Debug\square of stars.exe.config
+D:\Docz\Programming\SoftUni\2017-01-21\square of stars\square of stars\bin\Debug\square of stars.exe
+D:\Docz\Programming\SoftUni\2017-01-21\square of stars\square of stars\bin\Debug\square of stars.pdb
+D:\Docz\Programming\SoftUni\2017-01-21\square of stars\square of stars\obj\Debug\square of stars.exe
+D:\Docz\Programming\SoftUni\2017-01-21\square of stars\square of stars\obj\Debug\square of stars.pdb
+D:\Docz\Programming\SoftUni\2017-01-21\square of stars\square of stars\obj\Debug\square of stars.csprojResolveAssemblyReference.cache

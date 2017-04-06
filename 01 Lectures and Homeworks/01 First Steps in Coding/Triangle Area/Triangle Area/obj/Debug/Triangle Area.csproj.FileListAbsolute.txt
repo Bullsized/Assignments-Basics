@@ -1,0 +1,6 @@
+D:\Docz\Programming\SoftUni\2017-01-21\Triangle Area\Triangle Area\bin\Debug\Triangle Area.exe.config
+D:\Docz\Programming\SoftUni\2017-01-21\Triangle Area\Triangle Area\bin\Debug\Triangle Area.exe
+D:\Docz\Programming\SoftUni\2017-01-21\Triangle Area\Triangle Area\bin\Debug\Triangle Area.pdb
+D:\Docz\Programming\SoftUni\2017-01-21\Triangle Area\Triangle Area\obj\Debug\Triangle Area.exe
+D:\Docz\Programming\SoftUni\2017-01-21\Triangle Area\Triangle Area\obj\Debug\Triangle Area.pdb
+D:\Docz\Programming\SoftUni\2017-01-21\Triangle Area\Triangle Area\obj\Debug\Triangle Area.csprojResolveAssemblyReference.cache

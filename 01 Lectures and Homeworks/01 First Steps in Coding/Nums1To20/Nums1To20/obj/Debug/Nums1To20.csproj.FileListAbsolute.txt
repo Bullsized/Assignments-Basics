@@ -1,0 +1,5 @@
+D:\Docz\Programming\SoftUni\2017-01-21\Nums1To20\Nums1To20\bin\Debug\Nums1To20.exe.config
+D:\Docz\Programming\SoftUni\2017-01-21\Nums1To20\Nums1To20\bin\Debug\Nums1To20.exe
+D:\Docz\Programming\SoftUni\2017-01-21\Nums1To20\Nums1To20\bin\Debug\Nums1To20.pdb
+D:\Docz\Programming\SoftUni\2017-01-21\Nums1To20\Nums1To20\obj\Debug\Nums1To20.exe
+D:\Docz\Programming\SoftUni\2017-01-21\Nums1To20\Nums1To20\obj\Debug\Nums1To20.pdb

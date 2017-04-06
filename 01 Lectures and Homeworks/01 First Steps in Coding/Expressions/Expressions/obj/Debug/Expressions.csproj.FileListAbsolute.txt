@@ -1,0 +1,5 @@
+D:\Docz\Programming\SoftUni\2017-01-21\Expressions\Expressions\bin\Debug\Expressions.exe.config
+D:\Docz\Programming\SoftUni\2017-01-21\Expressions\Expressions\bin\Debug\Expressions.exe
+D:\Docz\Programming\SoftUni\2017-01-21\Expressions\Expressions\bin\Debug\Expressions.pdb
+D:\Docz\Programming\SoftUni\2017-01-21\Expressions\Expressions\obj\Debug\Expressions.exe
+D:\Docz\Programming\SoftUni\2017-01-21\Expressions\Expressions\obj\Debug\Expressions.pdb
