@@ -1,6 +1,0 @@
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\01 Test\bin\Debug\01 Test.exe.config
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\01 Test\bin\Debug\01 Test.exe
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\01 Test\bin\Debug\01 Test.pdb
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\01 Test\obj\Debug\01 Test.csprojResolveAssemblyReference.cache
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\01 Test\obj\Debug\01 Test.exe
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\01 Test\obj\Debug\01 Test.pdb

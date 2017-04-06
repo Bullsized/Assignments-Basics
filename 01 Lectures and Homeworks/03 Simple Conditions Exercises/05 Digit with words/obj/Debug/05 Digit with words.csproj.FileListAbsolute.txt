@@ -1,5 +1,0 @@
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\05 Digit with words\bin\Debug\05 Digit with words.exe.config
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\05 Digit with words\bin\Debug\05 Digit with words.exe
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\05 Digit with words\bin\Debug\05 Digit with words.pdb
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\05 Digit with words\obj\Debug\05 Digit with words.exe
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\05 Digit with words\obj\Debug\05 Digit with words.pdb

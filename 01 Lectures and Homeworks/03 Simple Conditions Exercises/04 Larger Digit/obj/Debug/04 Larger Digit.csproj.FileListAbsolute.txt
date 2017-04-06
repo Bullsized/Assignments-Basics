@@ -1,5 +1,0 @@
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\04 Larger Digit\bin\Debug\04 Larger Digit.exe.config
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\04 Larger Digit\bin\Debug\04 Larger Digit.exe
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\04 Larger Digit\bin\Debug\04 Larger Digit.pdb
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\04 Larger Digit\obj\Debug\04 Larger Digit.exe
-D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\04 Larger Digit\obj\Debug\04 Larger Digit.pdb
