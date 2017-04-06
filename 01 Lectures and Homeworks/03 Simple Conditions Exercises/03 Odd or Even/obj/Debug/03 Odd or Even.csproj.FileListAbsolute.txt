@@ -1,0 +1,5 @@
+D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\03 Odd or Even\bin\Debug\03 Odd or Even.exe.config
+D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\03 Odd or Even\bin\Debug\03 Odd or Even.exe
+D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\03 Odd or Even\bin\Debug\03 Odd or Even.pdb
+D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\03 Odd or Even\obj\Debug\03 Odd or Even.exe
+D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\03 Odd or Even\obj\Debug\03 Odd or Even.pdb

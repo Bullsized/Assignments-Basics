@@ -1,0 +1,5 @@
+D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\02 Perfect or Not\bin\Debug\02 Perfect or Not.exe.config
+D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\02 Perfect or Not\bin\Debug\02 Perfect or Not.exe
+D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\02 Perfect or Not\bin\Debug\02 Perfect or Not.pdb
+D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\02 Perfect or Not\obj\Debug\02 Perfect or Not.exe
+D:\Docz\Programming\SoftUni\2017-02-04\2017-02-04\02 Perfect or Not\obj\Debug\02 Perfect or Not.pdb
