@@ -1,0 +1,6 @@
+D:\Docz\Programming\SoftUni\2017-01-21\55 zvezdichki\test 1\bin\Debug\test 1.exe.config
+D:\Docz\Programming\SoftUni\2017-01-21\55 zvezdichki\test 1\bin\Debug\test 1.exe
+D:\Docz\Programming\SoftUni\2017-01-21\55 zvezdichki\test 1\bin\Debug\test 1.pdb
+D:\Docz\Programming\SoftUni\2017-01-21\55 zvezdichki\test 1\obj\Debug\test 1.csprojResolveAssemblyReference.cache
+D:\Docz\Programming\SoftUni\2017-01-21\55 zvezdichki\test 1\obj\Debug\test 1.exe
+D:\Docz\Programming\SoftUni\2017-01-21\55 zvezdichki\test 1\obj\Debug\test 1.pdb

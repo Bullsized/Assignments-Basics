@@ -1,0 +1,9 @@
+D:\Docz\Programming\SoftUni\2017-01-21\55 zvezdichki\55 zvezdichki\bin\Debug\55 zvezdichki.exe.config
+D:\Docz\Programming\SoftUni\2017-01-21\55 zvezdichki\55 zvezdichki\bin\Debug\55 zvezdichki.exe
+D:\Docz\Programming\SoftUni\2017-01-21\55 zvezdichki\55 zvezdichki\bin\Debug\55 zvezdichki.pdb
+D:\Docz\Programming\SoftUni\2017-01-21\55 zvezdichki\55 zvezdichki\obj\Debug\55 zvezdichki.csprojResolveAssemblyReference.cache
+D:\Docz\Programming\SoftUni\2017-01-21\55 zvezdichki\55 zvezdichki\obj\Debug\55 zvezdichki.exe
+D:\Docz\Programming\SoftUni\2017-01-21\55 zvezdichki\55 zvezdichki\obj\Debug\55 zvezdichki.pdb
+C:\Users\Bullsized\Desktop\New folder\01 Lectures and Homeworks\01 First Steps in Coding\55 stars\55 zvezdichki\bin\Debug\55 zvezdichki.exe.config
+C:\Users\Bullsized\Desktop\New folder\01 Lectures and Homeworks\01 First Steps in Coding\55 stars\55 zvezdichki\obj\Debug\55 zvezdichki.exe
+C:\Users\Bullsized\Desktop\New folder\01 Lectures and Homeworks\01 First Steps in Coding\55 stars\55 zvezdichki\obj\Debug\55 zvezdichki.pdb
